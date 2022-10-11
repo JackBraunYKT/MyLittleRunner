@@ -1,0 +1,33 @@
+obstacles.png
+size: 993, 948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brick_small
+  rotate: false
+  xy: 0, 0
+  size: 342, 314
+  orig: 342, 314
+  offset: 0, 0
+  index: -1
+brick_wide
+  rotate: false
+  xy: 342, 0
+  size: 648, 325
+  orig: 648, 325
+  offset: 0, 0
+  index: -1
+brick_long
+  rotate: false
+  xy: 0, 325
+  size: 339, 623
+  orig: 339, 623
+  offset: 0, 0
+  index: -1
+brick_big
+  rotate: false
+  xy: 339, 325
+  size: 654, 620
+  orig: 654, 620
+  offset: 0, 0
+  index: -1
